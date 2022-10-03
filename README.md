@@ -1,20 +1,23 @@
 
 # booking
 
-A new Flutter project.
+This project is powered by Flutter **3.4.0** and Dart **2.190.0**.
 
-## Getting Started
+The main packages used in the project:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```yaml
+  flutter_bloc: "^6.1.1"
+  injector: "^1.0.9"
+  dio: "^3.0.10"
+  google_maps_flutter: "^1.2.0"
+  mad_pay: 1.0.0
+  flutter_checkout_payment: "^0.1.0+2"
+  google_sign_in: "^4.5.5"
+  flutter_facebook_auth: ^3.3.3-no-nullsafety
+  sign_in_with_apple: "^2.5.4"
+  intl: "^0.16.1"
+  flutter_localizations: ...
+```
 # video
 https://user-images.githubusercontent.com/39926614/193682101-e34de9f6-ff31-4013-9a94-8fcebbb1925c.mp4
 

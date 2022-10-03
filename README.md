@@ -34,6 +34,7 @@ The main packages used in the project:
   easy_localization: ^3.0.1
   flutter_phoenix: ^1.1.0
   day_night_switcher: ^0.2.0+1
+  ```
   
 # video
 https://user-images.githubusercontent.com/39926614/193682101-e34de9f6-ff31-4013-9a94-8fcebbb1925c.mp4
